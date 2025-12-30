@@ -1,18 +1,22 @@
-# \# 1D Partial Differential Equation Heat Simulation
+# 1D Partial Differential Equation Heat Simulation
 
-# 
+This project simulates and visualises the evolution of heat in a 1D rod using Python and Pygame.  
 
-# This project simulates and visualises the evolution of heat in a 1D rod using Python and Pygame.  
+It implements the **Forward Euler**, **Backward Euler**, and **Crank–Nicolson** methods.
 
-# It implements the \*\*Forward Euler\*\*, \*\*Backward Euler\*\*, and \*\*Crank–Nicolson\*\* methods.
+## Visualisation
 
-# 
+<div align="center">
+<p>
+<img src="heat_equation.gif" width="400"/> 
+</p>
+<br>
+<div>
 
-# \## Visualisation
+</div>
 
-# 
+</div>
 
-# !\[Heat equation simulation](heat\_equation.gif)
 
 
 
